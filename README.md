@@ -1,2 +1,1 @@
-# PrepCourse
-repositorio de prueba 
+Este proyecto de prueba de como crear mi primer repositorio y clonarlo desde github a mi computadora 
